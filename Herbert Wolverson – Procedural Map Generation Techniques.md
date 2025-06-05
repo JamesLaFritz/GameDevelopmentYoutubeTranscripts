@@ -1,6 +1,8 @@
-# Herbert Wolverson – Procedural Map Generation Techniques  
-**[2020 Virtual Roguelike Celebration – Oct 15, 2020](https://roguelike.club/event2020.html)**  
-🎥 [Watch on YouTube](https://www.youtube.com/watch?v=TlLIOgWYVpI&t=1509s)
+# Herbert Wolverson – Procedural Map Generation Techniques
+
+**[2020 Virtual Roguelike Celebration – Oct 15, 2020](https://roguelike.club/event2020.html)**
+
+[![Watch on YouTube](https://img.youtube.com/vi/TlLIOgWYVpI/0.jpg)](https://www.youtube.com/watch?v=TlLIOgWYVpI)
 
 ## Summary  
 Herbert Wolverson is the developer of *Nox Futura*, *One Knight in the Dungeon*, and several 7DRL projects. He authored the *Rust Roguelike Tutorial* and is writing *Learn Rust by Making a Game* (Pragmatic Bookshelf).  He's a regular contributor to the subreddit r/roguelikedev.

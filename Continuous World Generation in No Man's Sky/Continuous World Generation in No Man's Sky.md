@@ -333,7 +333,7 @@ and then at the other end we're projecting that down still onto our non-elevated
 
 Working with voxels — I've mentioned voxels a few times — let's go into some details on how we use them.
 
-[Voxel Regions Image](VoxelRegions.png)
+![Voxel Regions Image](VoxelRegions.png)
 
 We consider our voxels in chunks. We have regions, and for the time being I'm just talking about the nearest LODs, where all of our voxels are one meter cubed.  
 We take all these regions and we process them individually, and each one comes out to be a single area of terrain.

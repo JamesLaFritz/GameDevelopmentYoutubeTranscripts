@@ -1,6 +1,8 @@
-# Supercharged! Vehicle Physics in Skylanders  
-**2016 GDC Talk – Jul 27, 2018**  
-🎥 [Watch on YouTube](https://www.youtube.com/watch?v=Db1AgGavL8E&t=3527s)
+# Supercharged! Vehicle Physics in Skylanders
+
+**2016 GDC Talk – Jul 27, 2018**
+
+[![Watch on YouTube](https://img.youtube.com/vi/Db1AgGavL8E/0.jpg)](https://www.youtube.com/watch?v=Db1AgGavL8E)
 
 ## Summary
 

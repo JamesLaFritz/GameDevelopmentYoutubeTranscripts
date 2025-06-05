@@ -1,6 +1,8 @@
-# Dreamscaper: Killer Combat on an Indie Budget  
-**GDC 2022 – Aug 26, 2022**  
-🎥 [Watch on YouTube](https://www.youtube.com/watch?v=3Omb5exWpd4)
+# Dreamscaper: Killer Combat on an Indie Budget
+
+**GDC 2022 – Aug 26, 2022**
+
+[![Watch on YouTube](https://img.youtube.com/vi/3Omb5exWpd4/0.jpg)](https://www.youtube.com/watch?v=3Omb5exWpd4)
 
 ## Summary  
 In this GDC session, Afterburner Studios’ Ian Cofino shares the process of creating a satisfying combat system on a small indie team—focusing on the design, feel, and workflow needed to make a great player experience.

@@ -2,7 +2,7 @@
 
 **GDC Talk – Jun 12, 2018**
 
-[![Watch on YouTube](https://img.youtube.com/vi/ID/H0sLa1y3BW4.jpg)](https://www.youtube.com/watch?v=H0sLa1y3BW4)
+[![Watch on YouTube](https://img.youtube.com/vi/H0sLa1y3BW4/3.jpg)](https://www.youtube.com/watch?v=H0sLa1y3BW4)
  
 ## Summary
 

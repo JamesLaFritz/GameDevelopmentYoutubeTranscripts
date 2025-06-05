@@ -1,6 +1,8 @@
-# Procedural Level Design in Eldritch  
-**2015 GDC talk – Jun 25, 2017**  
-🎥 [Watch on YouTube](https://www.youtube.com/watch?v=BYN0PJOdvzs)
+# Procedural Level Design in Eldritch
+
+**2015 GDC talk – Jun 25, 2017**
+
+[![Watch on YouTube](https://img.youtube.com/vi/BYN0PJOdvzs/0.jpg)](https://www.youtube.com/watch?v=BYN0PJOdvzs)
 
 ## Summary  
 In this 2015 GDC talk, Minor Key Games' David Pittman explores how and why procedural level generation was used in the creation of *Eldritch*. He discusses the development philosophy behind building a modular, replayable first-person roguelike on a tight budget and timeline. Pittman emphasizes simple, flexible tools, thoughtful content reuse, and the importance of design sensibility even in automated systems.
